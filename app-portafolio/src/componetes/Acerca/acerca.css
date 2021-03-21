@@ -1,0 +1,25 @@
+.acerca{
+    background:  #f0f3f5;
+    padding: 60px 0;
+    width: 100%;
+   /* margin-top: 50px; */
+   
+}
+
+.acerca .acerca-titulo{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.acerca-titulo{
+    color: rgb(12, 240, 240);
+    font-weight: 600;
+    font-size: 2.5rem;
+}
+
+.acerca .acerca-parrafo{
+    text-align: center;
+    color: #999999;
+    font-weight: 600;
+    width: 80%;
+    margin: 0 auto;
+}
